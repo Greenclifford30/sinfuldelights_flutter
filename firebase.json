@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sinfuldelights-91726",
+          "appId": "1:112255882372:android:e06be9a66c8b3a6173ded1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sinfuldelights-91726",
+          "configurations": {
+            "android": "1:112255882372:android:e06be9a66c8b3a6173ded1",
+            "ios": "1:112255882372:ios:6676dcad4e18bd9f73ded1",
+            "macos": "1:112255882372:ios:6676dcad4e18bd9f73ded1",
+            "web": "1:112255882372:web:5686ba521346b10773ded1",
+            "windows": "1:112255882372:web:974b215a67fe3f8373ded1"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "singleProjectMode": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "daily-menu-2025-07-19",
+  "date": "2025-07-19T00:00:00.000Z",
+  "title": "Today's Sinful Specials",
+  "isActive": true,
+  "items": [
+    {
+      "id": "item-1",
+      "name": "Truffle Mac & Cheese",
+      "description": "Creamy three-cheese blend with black truffle shavings and crispy pancetta",
+      "price": 24.99,
+      "stockQty": 12,
+      "isSpecial": true,
+      "imageUrl": "https://via.placeholder.com/300x200?text=Truffle+Mac+%26+Cheese",
+      "dietaryTags": ["vegetarian"]
+    },
+    {
+      "id": "item-2", 
+      "name": "Wagyu Beef Sliders",
+      "description": "Three premium Wagyu beef sliders with caramelized onions and aged cheddar",
+      "price": 32.99,
+      "stockQty": 8,
+      "isSpecial": false,
+      "imageUrl": "https://via.placeholder.com/300x200?text=Wagyu+Sliders",
+      "dietaryTags": []
+    },
+    {
+      "id": "item-3",
+      "name": "Seared Scallops",
+      "description": "Pan-seared scallops with cauliflower purée and micro greens", 
+      "price": 28.99,
+      "stockQty": 15,
+      "isSpecial": true,
+      "imageUrl": "https://via.placeholder.com/300x200?text=Seared+Scallops",
+      "dietaryTags": ["gluten-free"]
+    },
+    {
+      "id": "item-4",
+      "name": "Vegan Buddha Bowl", 
+      "description": "Quinoa, roasted vegetables, avocado, and tahini dressing",
+      "price": 18.99,
+      "stockQty": 20,
+      "isSpecial": false,
+      "imageUrl": "https://via.placeholder.com/300x200?text=Buddha+Bowl",
+      "dietaryTags": ["vegan", "gluten-free"]
+    }
+  ]
+}
